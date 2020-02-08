@@ -78,7 +78,7 @@
     "@iiif/iiif-tree-component": "1.1.12",
     "@iiif/manifold": "1.2.36",
     "@types/modernizr": "3.2.29",
-    "@types/requirejs": "2.1.28",
+    "@types/requirejs": "2.1.31",
     "@types/three": "0.84.20",
     "@universalviewer/uv-cy-gb-theme": "1.1.2",
     "@universalviewer/uv-en-gb-theme": "1.1.2",
